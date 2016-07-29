@@ -1,0 +1,26 @@
+{
+  "name": "node.angular2",
+  "description": "Basic framework for creating angular2",
+  "main": "",
+  "authors": [
+    "zeqi"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "node.angular2",
+    "node.ng2"
+  ],
+  "homepage": "/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/javascripts/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "bootstrap": "^3.3.7"
+  }
+}
